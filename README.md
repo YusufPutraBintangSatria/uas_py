@@ -3,7 +3,7 @@
 ### Membuat package dan modul dengan struktur seperti berikut:
 
 - daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data
-- cetak_nilai.py berisi modul untuk cetak daftar nilai, cetak hasil pencarian
+- view_nilai.py berisi modul untuk cetak daftar nilai, cetak hasil pencarian
 - input_nilai.py berisi modul untuk input data yang diminta pengguna untuk memasukkan data
 - main.py berisi program secara keseluruhan
 
